@@ -1,0 +1,40 @@
+title: Gary
+description: A crew chief for iRacing and Le Mans Ultimate.
+url: https://dgutierrez1287.github.io
+baseurl: /gary-releases
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+
+logo: "/assets/gary-mark.png"
+favicon_ico: "/assets/favicon.png"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Gary is an alpha, built and maintained by one person in their spare time. Send a log when something's wrong - see Troubleshooting."
+
+aux_links:
+  "Download latest release":
+    - "https://github.com/dgutierrez1287/gary-releases/releases/latest"
+  "All releases":
+    - "https://github.com/dgutierrez1287/gary-releases/releases"
+aux_links_new_tab: true
+
+nav_external_links:
+  - title: Download latest release
+    url: https://github.com/dgutierrez1287/gary-releases/releases/latest
+
+callouts:
+  warning:
+    title: Heads up
+    color: red
+  note:
+    title: Note
+    color: blue
+
+plugins:
+  - jekyll-remote-theme
