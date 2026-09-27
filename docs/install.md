@@ -17,6 +17,12 @@ then **Run anyway**. This happens because the installer isn't code-signed, and a
 certificate costs a few hundred dollars a year for a project that isn't making any money.
 Nothing is wrong; it just means Microsoft doesn't know who built it.
 
+## Language
+
+Gary speaks and understands **English**, whatever language your Windows is in. To understand
+you he needs Windows' English speech recognition: if he tells you he can't find it, add English
+in **Windows Settings → Time & language → Speech** (or **Language & region**), then restart him.
+
 ## Updates
 
 Automatic. Gary checks on launch, downloads quietly in the background, and applies the new
