@@ -58,6 +58,9 @@ it - fuel use, pace, and how much the lap times fell away over the stint.
 **Turn names.** At tracks Gary has corner data for, calls use the corner names (or numbers, if
 you prefer - just say so).
 
+**Gaps every lap, on request.** *"Give me the gaps every lap"* (or every few laps, or one side
+only) for a fight at the end of a race - how far ahead and behind, and how it moved that lap.
+
 **How much he talks.** *"Quiet mode"* for only the urgent stuff, *"keep me informed"* for
 everything. He also holds routine chatter while you're hard on the brakes.
 

@@ -33,6 +33,9 @@ walked through it. *"What's my stop set to"* reads it back.
 
 - **Two-compound rule.** For the cars that have more than one dry compound (IR18, iR-01, and the
   F1 cars), Gary keeps track of whether you've run both, and reminds you before it's too late.
+- **Last stop's tyres.** iRacing only measures tread in the box - *"how were my tyres last stop"*
+  reads what it measured, corner by corner. Handy in practice, and on ovals with back-to-back
+  cautions.
 - **Limited tyres on ovals.** Left and right sides are counted separately, the way iRacing does.
   You hear what you've got at the start and what's left after each stop, and get a warning when
   you're running short on one side.

@@ -50,6 +50,19 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"do I need another stop"* | Whether you can make the finish |
 | *"where would I come out if I pit now"* | Your likely position after a stop |
 
+## Gaps every lap
+
+For a fight - Gary reads the gaps to the cars ahead and behind in your class just after the line,
+with how they moved that lap. Race only; it switches itself off when you pit or take the flag.
+
+| Say | Effect |
+|---|---|
+| *"give me the gaps every lap"* / *"delta mode"* | Both sides, every lap |
+| *"gaps every 3 laps"* | Both sides, every 3 laps (2 to 10) |
+| *"just the car ahead"* / *"gap ahead every 5 laps"* | Ahead only |
+| *"just the car behind"* / *"gap behind every 4 laps"* | Behind only |
+| *"stop the gaps"* | Off |
+
 ## The car
 
 | Ask | You get |
@@ -60,6 +73,7 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"how many new tyres have I got"* / *"what used tyres do I have"* | Your tyre allowance - **LMU** |
 | *"how many tyres have I got left"* | Left and right sets left on a limited-tyre oval - **iRacing** |
 | *"have I run both compounds"* | The two-compound rule - **iRacing** |
+| *"how were my tyres last stop"* | Tread measured at your last stop, each corner - **iRacing** |
 | *"any penalties"* | Penalty status |
 | *"how many track limit points do I have"* | Track limits - **LMU** |
 | *"how many incidents"* | Your incident count - **iRacing** |
