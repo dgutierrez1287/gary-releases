@@ -41,6 +41,12 @@ walked through it. *"What's my stop set to"* reads it back.
 
 - Full-course cautions, one to green, green held, and restart format (single or double file,
   whatever iRacing says it is).
+- **Getting into line.** iRacing freezes the order when the caution comes out, so the field on
+  track rarely matches it. Gary tells you who to let by and who you can pass to get into your
+  spot.
+- **Your restart spot** at one to go - *"row 4"* for double file, *"7th in line"* for single.
+- **Pit or not.** A few seconds after the caution, whether you've got fuel to the end, whether
+  one fill makes it (good time to pit), or whether topping off now pushes your next stop back.
 - The free pass, being waved around, and being sent to the tail of the line.
 - Penalty laps counted the oval way - only green-flag laps.
 
