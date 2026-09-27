@@ -22,7 +22,7 @@ track, session type) — pick the right one, then **Open** it or **Show in folde
 
 Newest file, one per launch, last twenty kept.
 
-Along with the log, say roughly **when** it happened and **what you expected instead**. "Around
+Post it in the **[Discord](https://discord.gg/XAdbGx8zV8)**. Along with the log, say roughly **when** it happened and **what you expected instead**. "Around
 lap 6 it said I'd gone off and I hadn't" is enough to find it — timestamps in the log do the
 rest. The version is in Gary's title bar, so a screenshot carries it too.
 
@@ -39,7 +39,7 @@ Almost everything is local:
 %AppData%\Gary\logs\            one log per launch
 %AppData%\Gary\voices\          voices you downloaded
 %AppData%\Gary\history\         lap and pit stop history he's learned from
-%AppData%\Gary\pit-data\        your installation's pit-data upload token
+%AppData%\Gary\pit-data\        your installation's upload token
 ```
 
 Deleting `settings.json` resets Gary to defaults. Deleting `history` makes him forget your
@@ -62,5 +62,4 @@ new voice actually takes effect.
 
 ## Next
 
-Back to **[Home](index.html)**, or check **[What works, and what doesn't](whats-working.html)**
-before assuming something's broken.
+Still stuck? Ask in the **[Discord](https://discord.gg/XAdbGx8zV8)**.

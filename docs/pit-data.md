@@ -7,17 +7,20 @@ nav_order: 7
 
 ## What gets uploaded
 
-**iRacing only, for now.** Gary uploads each completed pit stop - car, track, series, and the
-timing breakdown (how long fuel took, how long tyres took, whether they overlapped) - to build
-better pit and fuel time estimates, faster, by pooling data across the community instead of
-each install slowly building up its own from scratch.
+**iRacing only, for now.** Three things, each with its own switch in **Settings**, all on by
+default:
 
-**Nothing that identifies you is sent.** No name, no Windows username, no driver ID - nothing
-beyond the stop itself. The upload is tied to a per-installation token, not to you personally.
+- **Pit stops** - car, track, series and the timing breakdown: time lost in the pit lane, how
+  long fuel and tyres took, fuel burned per lap over the stint. This is what lets Gary tell you
+  what a stop or a drive-through costs, and fuel you, at a car and track you've never driven.
+- **GPS for tracks that need it** - at a track still missing corner data, one clean lap's worth
+  of position data, so corner names can be added. Most laps upload nothing at all.
+- **Tyre wear** - one row per stint: conditions, tyre wear, lap times, and (unless it was a
+  fixed setup) camber, toe and brake bias. Used to build a tyre wear model.
 
-On by default while there are few enough testers that data volume is the priority. Turn it off
-any time in **Settings → Share pit stop data** — your own local pit history keeps working
-exactly the same either way; only the upload stops.
+**Nothing that identifies you is sent.** No name, no Windows username, no driver ID - the upload
+is tied to a random per-installation token, not to you. Turning any of these off stops only the
+upload; everything Gary does locally keeps working the same.
 
 ## What never leaves your machine
 

@@ -25,7 +25,7 @@ Changing the button (or that tickbox) restarts Gary automatically to apply it.
 
 ## Your name
 
-Used only on urgent calls — *"Diego! Box this lap."* Leave it blank to skip it.
+Used on the greeting and urgent calls — *"Diego! Box this lap."* Leave it blank to skip it.
 
 ## Handy extras
 
@@ -46,4 +46,4 @@ voices you tried and didn't keep.
 
 ## Next
 
-**[See what you can ask him →](voice-commands.html)**
+**[See what Gary does →](features/)**

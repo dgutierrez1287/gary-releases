@@ -15,9 +15,11 @@ favicon_ico: "/assets/favicon.png"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Gary is an alpha, built and maintained by one person in their spare time. Send a log when something's wrong - see Troubleshooting."
+footer_content: "Gary is a free alpha, built and maintained by one person in their spare time. Bugs, ideas and questions: <a href=\"https://discord.gg/XAdbGx8zV8\">Discord</a>."
 
 aux_links:
+  "Discord":
+    - "https://discord.gg/XAdbGx8zV8"
   "Download latest release":
     - "https://github.com/dgutierrez1287/gary-releases/releases/latest"
   "All releases":
@@ -25,6 +27,8 @@ aux_links:
 aux_links_new_tab: true
 
 nav_external_links:
+  - title: Discord
+    url: https://discord.gg/XAdbGx8zV8
   - title: Download latest release
     url: https://github.com/dgutierrez1287/gary-releases/releases/latest
 

@@ -14,7 +14,7 @@ install .NET or anything else first; everything is bundled.
 {: .warning }
 **Windows will warn you.** You'll get *"Windows protected your PC"* — click **More info**,
 then **Run anyway**. This happens because the installer isn't code-signed, and a signing
-certificate costs a few hundred pounds a year for a project that isn't making any money.
+certificate costs a few hundred dollars a year for a project that isn't making any money.
 Nothing is wrong; it just means Microsoft doesn't know who built it.
 
 ## Updates
