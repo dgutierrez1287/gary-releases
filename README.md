@@ -13,6 +13,10 @@ what he does in each sim, every voice command, and the settings reference.
 
 💬 **[Join the Discord](https://discord.gg/XAdbGx8zV8)** — bugs, ideas, questions.
 
+💚 **[Say thanks by donating to ASAN](https://givebutter.com/give-to-asan-1glcqt/diegogutierrez2)** — Gary is free; if you'd like to give something back,
+donate to the Autistic Self Advocacy Network, run by and for autistic people. It goes straight to
+them. (Gary isn't affiliated with or endorsed by ASAN.)
+
 ---
 
 This repository holds packaged releases only — no source code. Something wrong? Post a log in the

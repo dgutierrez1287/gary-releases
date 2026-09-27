@@ -15,9 +15,11 @@ favicon_ico: "/assets/favicon.png"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Gary is a free alpha, built and maintained by one person in their spare time. Bugs, ideas and questions: <a href=\"https://discord.gg/XAdbGx8zV8\">Discord</a>."
+footer_content: "Gary is a free alpha, built and maintained by one person in their spare time. Bugs, ideas and questions: <a href=\"https://discord.gg/XAdbGx8zV8\">Discord</a>. Want to say thanks? <a href=\"https://givebutter.com/give-to-asan-1glcqt/diegogutierrez2\">Donate to ASAN</a>."
 
 aux_links:
+  "Support ASAN":
+    - "https://givebutter.com/give-to-asan-1glcqt/diegogutierrez2"
   "Discord":
     - "https://discord.gg/XAdbGx8zV8"
   "Download latest release":
@@ -27,6 +29,8 @@ aux_links:
 aux_links_new_tab: true
 
 nav_external_links:
+  - title: Support ASAN
+    url: https://givebutter.com/give-to-asan-1glcqt/diegogutierrez2
   - title: Discord
     url: https://discord.gg/XAdbGx8zV8
   - title: Download latest release

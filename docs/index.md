@@ -59,6 +59,15 @@ things get fixed.
 | [Pit data & privacy](pit-data.html) | What Gary uploads, and how to turn it off |
 | [Troubleshooting](troubleshooting.html) | Sending a log, common issues |
 
+## Say thanks
+
+Gary is free and always will be. If he's helped you and you'd like to say thanks, please donate
+to the **[Autistic Self Advocacy Network](https://givebutter.com/give-to-asan-1glcqt/diegogutierrez2)** - a nonprofit run by and for autistic people.
+
+Your donation goes straight to ASAN, not to me. Gary isn't affiliated with or endorsed by ASAN.
+
+[Donate to ASAN](https://givebutter.com/give-to-asan-1glcqt/diegogutierrez2){: .btn .btn-green .fs-5 }
+
 ---
 
 Gary is built and maintained by one person in their spare time, in the open. Source stays
