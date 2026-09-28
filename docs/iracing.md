@@ -23,6 +23,11 @@ and track you've never driven before:
 
 Your own laps take over as soon as there are some.
 
+## Fuel check on the grid
+
+As a race session starts, Gary checks you're not still on your qualifying fuel - *"Fuel check -
+you've only got about 9 laps in, and the race is about 17. Top it up."* Silent when the fuel's fine.
+
 ## Pit stops
 
 Set up your stop by voice: *"four tyres"*, *"left side"*, *"add 20 litres"*, *"add 5 laps of

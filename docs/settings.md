@@ -21,6 +21,13 @@ push-to-talk button restarts Gary by itself.
 
 ## In the Settings window
 
+**Voices on or off**
+
+| Setting | What it does |
+|---|---|
+| **Crew chief calls** | The crew chief's own calls. Off leaves the spotter on its own - questions you ask by push-to-talk are still answered |
+| **Spotter calls** | The spotter. Off leaves the crew chief on his own. *"Spotter on"* brings it back for the session |
+
 **You**
 
 | Setting | What it does |
