@@ -72,9 +72,11 @@ push-to-talk button restarts Gary by itself.
 
 | Setting | What it does |
 |---|---|
-| **Crew chief voice** / **Spotter voice** | Any voice, either role. **Download selected voices** fetches ones you don't have yet; **Clear unused** deletes ones you're not using |
+| **Crew chief voice** / **Spotter voice** | Any voice, either role. Each one is described in the dropdown (accent, male or female). **Download selected voices** fetches ones you don't have yet; **Clear unused** deletes ones you're not using |
 | **Radio voice effect** | Makes the crew chief sound like he's on the radio. Urgent calls are never degraded |
-| **Radio click and squelch** | Radio click on crew chief messages, with a choice of start sound |
+| **Radio click and squelch on crew chief messages** | Radio click on crew chief messages, with a choice of start sound. Untick it for no click at all - the radio voice effect stays |
+| **Radio click and squelch on spotter calls** | The same for the spotter, set separately |
+| **Crew chief volume** / **Spotter volume** | 0 to 200%. Above 100% makes the voice louder with the loudest peaks softened rather than clipped - useful if Gary is lost under the iRacing spotter |
 
 **Startup**
 
