@@ -26,6 +26,12 @@ cloud, no internet needed to talk.
 it - either as a sector rundown at the end of the lap or live, sector by sector (your choice in
 Settings, or just tell him).
 
+**Turn by turn.** In practice, qualifying and testing, say *"turn by turn on"* and after each
+lap - or each sector, if you ask - he tells you which corners you lost or found time in against
+your best: *"Lost two tenths at Turn 1, got a tenth back at the Esses."* Never automatic in a race.
+*"Where did I lose time"* works in any session, and in a race *"where am I losing time to the car
+ahead"* (or behind) goes corner by corner through the fight. Needs a track Gary has corner data for.
+
 **Fuel.** Measured every lap. Warnings when you're getting low, a consumption summary, and
 *"fuel to the end"* to work out exactly what you need. Turn on automatic fuelling and he sets it
 for you every time you turn into the pits in a race, then tells you what he set.

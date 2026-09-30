@@ -114,6 +114,19 @@ When you want several things at once: *"tell me about my fuel"*, *"tell me about
 | *"call every sector live"* | Each sector called as you finish it |
 | *"only call out notable sectors"* | Live, but quiet unless it's worth hearing |
 
+## Hotlapping
+
+| Say | Effect |
+|---|---|
+| *"turn by turn on"* / *"turn by turn off"* | Corner-by-corner time against your best, after each lap - practice, qualifying and testing |
+| *"turn by turn each sector"* / *"turn by turn end of lap"* | When the corners are called |
+| *"where did I lose time"* | Corner by corner on your last lap, any session |
+| *"where am I losing time to the car ahead"* (or *behind*) | Corner by corner on the fight |
+| *"find me a target"* | A Garage61 lap a little quicker than your best - **iRacing**, offline testing |
+| *"go for the fastest"* | The quickest Garage61 lap found - **iRacing** |
+| *"next target"* | One step up the ladder - **iRacing** |
+| *"what's my target"* | Who you're chasing and how far off - **iRacing** |
+
 ## Corners
 
 | Say | Effect |

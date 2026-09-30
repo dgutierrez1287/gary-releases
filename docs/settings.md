@@ -17,6 +17,7 @@ push-to-talk button restarts Gary by itself.
 | **Push-to-talk button** | **Map...** a button on your wheel or button box. No button mapped = Gary doesn't listen. See [First run](first-run.html#push-to-talk) |
 | **Listen without a push-to-talk button** | Hands-free always-on mic. Off by default - it acts on anything it hears |
 | **Microphone** / **Speaker** | Which devices Gary listens on and talks through |
+| **Garage61** | **Connect** signs you in through your browser (Gary never sees your password); **Laps from** picks whose laps you chase - All drivers or one of your teams. iRacing only - see [Chase a Garage61 lap](features/iracing.html#chase-a-garage61-lap) |
 | **Voice recognition** | *Modern* uses your Windows default mic; *Classic* lets you pick one. If commands feel unreliable, try the other |
 
 ## In the Settings window

@@ -23,6 +23,43 @@ and track you've never driven before:
 
 Your own laps take over as soon as there are some.
 
+## Chase a Garage61 lap
+
+Connect Garage61 on Gary's front page and, in an **offline test session**, ask *"find me a
+target"*. Gary finds other drivers' best laps in your car at this track, in conditions like
+yours - track and air temperature, rubber, wet or dry - and picks one a little quicker than your
+best:
+
+> *"Out of 8 drivers, your target is Alex Moreno's 1 minute 11.37, seven tenths quicker than your best."*
+
+Then every clean lap is checked against it. Your lap time first, then either where you stand
+against them, sector by sector, or:
+
+> *"You beat Alex Moreno's 1 minute 11.37. Next up Sam Ortiz's 1 minute 10.40."*
+
+- *"Go for the fastest"* skips straight to the quickest lap found; *"next target"* moves you one
+  step up; *"what's my target"* tells you who and how far off.
+- Sector comparisons follow your sector setting - after the lap, or live as you cross each sector
+  (*"sector by sector"*). While you have a target, they replace the usual comparison with your own best.
+- **Laps from** on the front page picks whose laps: **All drivers**, or one of your Garage61 teams.
+  Change it any time, even mid-session.
+- If there aren't many laps in your conditions, Gary widens the search and says so.
+- Offline testing only - never in practice, where there are other cars on track.
+- Gary asks Garage61 as little as it can: nothing until you ask for a target, searches are
+  remembered for a day, and a session never makes more than a handful of requests.
+
+A free Garage61 account is enough - it's sector times, not telemetry.
+
+## Hotlapping with Active Reset
+
+Use iRacing's Active Reset and Gary notices, and treats the rest of the session as hotlapping.
+Resetting puts the car back as it was when you saved the point - fuel included - so from then on
+he only talks about what matters: **lap times, sectors, your Garage61 target**, and whether an
+off cost you the lap. No fuel warnings, no "tidy it up". The bit of lap before you cross the line
+after a reset never counts; your flying lap starts at the line.
+
+Getting out of the car and back in is fine - hop in, hit reset, go.
+
 ## Fuel check on the grid
 
 As a race session starts, Gary checks you're not still on your qualifying fuel - *"Fuel check -
