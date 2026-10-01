@@ -5,8 +5,9 @@ nav_order: 5
 
 # Voice commands
 
-Hold your push-to-talk button and speak. Each of these has lots of accepted wordings - the
-examples below are just one each.
+Hold your push-to-talk button and speak - or, with the [wake name](first-run.html#wake-name) on,
+start with *"Gary"*. Each of these has lots of accepted wordings - the examples below are just one
+each.
 
 {: .note }
 Nothing here needs an exact script. "How's my fuel" and "what's my fuel situation" both work -
@@ -27,7 +28,8 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 
 | Ask | You get |
 |---|---|
-| *"how's my fuel"* | Laps of fuel left |
+| *"how much fuel do I have"* | Laps of fuel left |
+| *"how's my fuel"* | He asks: laps remaining, or how much you're using? Answer *"laps"* or *"usage"* |
 | *"fuel usage"* | Last lap, best, worst and stint average |
 | *"fuel to the end"* | Sets the pit stop to fill enough to finish, plus your margin |
 | *"fuel margin two laps"* | Changes the margin for the next stop only |
@@ -97,7 +99,9 @@ Leclerc in my class"*, *"what tyres is Russell on"*, *"iRating for Piastri"* (**
 ## Briefings
 
 When you want several things at once: *"tell me about my fuel"*, *"tell me about the tyres"*,
-*"tell me about the race"*, *"tell me about the car"*.
+*"tell me about the race"*, *"tell me about the car"*. Gary asks which part you mean - *"Position,
+gaps, or time left?"* - and you answer with just that word. Ignore the question and say something
+else if you've moved on; he won't keep waiting.
 
 ## Pit stops
 

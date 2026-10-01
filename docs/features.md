@@ -84,4 +84,10 @@ only) for a fight at the end of a race - how far ahead and behind, and how it mo
 **How much he talks.** *"Quiet mode"* for only the urgent stuff, *"keep me informed"* for
 everything. He also holds routine chatter while you're hard on the brakes.
 
+**Captions.** Everything the crew chief says - and the spotter too, if you want - as text in a
+small box over your sim, wherever you put it. For drivers who are hard of hearing, race with the
+sound low, or just missed a call. See [Settings](../settings.html).
+
+**Talk by name.** Turn on the wake name and say *"Gary, how much fuel"* - no button needed.
+
 See **[Voice commands](../voice-commands.html)** for everything you can ask.

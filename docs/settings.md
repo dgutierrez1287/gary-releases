@@ -16,6 +16,7 @@ push-to-talk button restarts Gary by itself.
 | **Always on top** | Keeps Gary above your sim window - handy on a second monitor |
 | **Push-to-talk button** | **Map...** a button on your wheel or button box. No button mapped = Gary doesn't listen. See [First run](first-run.html#push-to-talk) |
 | **Listen without a push-to-talk button** | Hands-free always-on mic. Off by default - it acts on anything it hears |
+| **Wake name** | Talk to Gary by saying his name - see [First run](first-run.html#wake-name). Off by default. You can change the name |
 | **Microphone** / **Speaker** | Which devices Gary listens on and talks through |
 | **Garage61** | **Connect** signs you in through your browser (Gary never sees your password); **Laps from** picks whose laps you chase - All drivers or one of your teams. iRacing only - see [Chase a Garage61 lap](features/iracing.html#chase-a-garage61-lap) |
 | **Voice recognition** | *Modern* uses your Windows default mic; *Classic* lets you pick one. If commands feel unreliable, try the other |
@@ -35,6 +36,23 @@ push-to-talk button restarts Gary by itself.
 |---|---|
 | **Your name** | Used on the greeting and urgent calls ("Diego! Box this lap."). Blank to skip it |
 | **Let the crew chief swear (occasionally)** | Exactly what it says |
+
+**Captions**
+
+What the crew chief and spotter say, as text on screen - for drivers who are hard of hearing,
+race with the sound low, or just missed a call.
+
+| Setting | What it does |
+|---|---|
+| **Caption the crew chief** | Shows each crew chief call in a small box over your sim |
+| **Lines shown** | How many recent calls the box shows, 1 to 5. The newest is at the bottom |
+| **Stays up for** | Seconds before the box fades. Long calls get a little longer |
+| **Background opacity** / **Text size** | How the box looks. The text is always solid |
+| **Caption the spotter** | *Not shown*, *In the crew chief overlay* (in yellow), or *In their own overlay* with its own position |
+| **Position crew chief overlay** / **Position spotter overlay** | Shows the box so you can drag it anywhere, on any monitor, and drag its right edge to resize. Click **Done** on it and the spot is kept. **Reset position** brings it back to the top-left of your main screen |
+
+While you drive, the boxes are click-through and never take focus from the sim. If a box was on a
+monitor that's no longer connected, it comes back onto your main one.
 
 **Spotter**
 
@@ -100,6 +118,7 @@ push-to-talk button restarts Gary by itself.
 |---|---|
 | **Log performance timing** | Writes how much work Gary is doing to the log once a minute. Leave off unless asked |
 | **Show the test checklist button** | A small always-on-top checklist window, for testing |
+| **Log window: show only the voice transcript** | The log window shows just what Gary heard you say (or ignored, and why) and what Gary and the spotter said. Useful when a command isn't working. The log file still has everything |
 
 ## Next
 

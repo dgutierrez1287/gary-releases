@@ -23,6 +23,15 @@ a push-to-talk button* under the mapping, but know it can misfire the same way.
 
 Changing the button (or that tickbox) restarts Gary automatically to apply it.
 
+## Wake name
+
+Rather not press anything? Tick **Wake name** on the front page. Then say *"Gary"*, wait for the
+tone, and ask - or say it all in one go: *"Gary, how much fuel"*. *"Hey Gary"* works too, and you
+can change the name. It works with or without a button mapped.
+
+Gary only answers to his name while he's connected to the sim, so it coming up on Discord or on
+stream between sessions doesn't set him off.
+
 ## Your name
 
 Used on the greeting and urgent calls — *"Diego! Box this lap."* Leave it blank to skip it.
