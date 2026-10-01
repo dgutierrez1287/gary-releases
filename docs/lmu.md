@@ -34,7 +34,9 @@ covers the track limit rule for the race.
 - **Wear and temperatures**, live - warnings when they're worn, or too cold or hot (you set the
   thresholds), and on request.
 - **Tyre allowance** in the grid briefing - how many you have for the race.
-- *"How many new tyres have I got"*, *"what used tyres do I have"*, *"what tyres am I on"*.
+- *"How many new tyres have I got"*, *"what used tyres do I have"*, *"what tyres am I on"*. Just
+  *"how many tyres have I got left"* gets *"New or used?"*, and *"how are my tyres"* gets *"Wear,
+  or temperatures?"* - answer with one word.
 
 ## Hybrid (Hypercars)
 

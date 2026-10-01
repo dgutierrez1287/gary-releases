@@ -72,9 +72,10 @@ with how they moved that lap. Race only; it switches itself off when you pit or 
 |---|---|
 | *"how's the car"* / *"damage report"* | Damage |
 | *"tyre wear"* / *"tyre temps"* | Tyre condition - **LMU** |
+| *"how are my tyres"* | Asks *"Wear, or temperatures?"* - **LMU** |
 | *"what tyres am I on"* | Your current tyres - **LMU** |
 | *"how many new tyres have I got"* / *"what used tyres do I have"* | Your tyre allowance - **LMU** |
-| *"how many tyres have I got left"* | Left and right sets left on a limited-tyre oval - **iRacing** |
+| *"how many tyres have I got left"* | **LMU**: asks *"New or used?"*. **iRacing**: left and right sets left on a limited-tyre oval |
 | *"have I run both compounds"* | The two-compound rule - **iRacing** |
 | *"how were my tyres last stop"* | Tread measured at your last stop, each corner - **iRacing** |
 | *"any penalties"* | Penalty status |
@@ -102,7 +103,7 @@ When you want several things at once: *"tell me about my fuel"*, *"tell me about
 
 *"Set up my pit stop"* walks you through it. You can also set things directly:
 
-- **Tyres** - *"four tyres"*, *"fronts only"*, *"rears only"*, *"left side"*, *"change the right
+- **Tyres** - *"four tyres"* (or *"change the tyres"*), *"fronts only"*, *"rears only"*, *"left side"*, *"change the right
   front"*, *"no tyres"*
 - **Fuel** - *"add 20 litres"*, *"add 5 laps of fuel"* (or *"of energy"* in LMU), *"no fuel"*, or
   *"fuel to the end"*
