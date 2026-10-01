@@ -73,6 +73,7 @@ push-to-talk button restarts Gary by itself.
 | Setting | What it does |
 |---|---|
 | **Crew chief voice** / **Spotter voice** | Any voice, either role. Each one is described in the dropdown (accent, male or female). **Download selected voices** fetches ones you don't have yet; **Clear unused** deletes ones you're not using |
+| **Better voice understanding (Whisper)** | When Gary doesn't catch a push-to-talk command, a second listener on your PC has another go, so more ways of saying things work. Downloads a 78 MB model the first time. Off by default |
 | **Radio voice effect** | Makes the crew chief sound like he's on the radio. Urgent calls are never degraded |
 | **Radio click and squelch on crew chief messages** | Radio click on crew chief messages, with a choice of start sound. Untick it for no click at all - the radio voice effect stays |
 | **Radio click and squelch on spotter calls** | The same for the spotter, set separately |

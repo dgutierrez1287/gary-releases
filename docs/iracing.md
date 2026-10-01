@@ -110,6 +110,12 @@ multiclass).
 When a teammate is driving, Gary goes quiet - he's not going to talk you through someone else's
 stint. Their stops and stints still feed the shared data.
 
+If you're saving fuel to drop a stop, he works out the target in the box before you climb out and
+says it once as your teammate takes over: *"Fuel save target for your teammate is 2.4 liters a lap
+to the end. Pass that on."* If they run Gary too, they can say *"our fuel save target is 2 point
+4"* and his Gary keeps them on it. When you're back in, the save carries on, re-worked from what's
+actually in the tank.
+
 ## Next
 
 **[Le Mans Ultimate →](lmu.html)**

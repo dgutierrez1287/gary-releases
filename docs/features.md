@@ -34,11 +34,25 @@ ahead"* (or behind) goes corner by corner through the fight. Needs a track Gary 
 
 **Fuel.** Measured every lap. Warnings when you're getting low, a consumption summary, and
 *"fuel to the end"* to work out exactly what you need. Turn on automatic fuelling and he sets it
-for you every time you turn into the pits in a race, then tells you what he set.
+for you every time you turn into the pits in a race, then tells you what he set. He calls the
+**fuel window** once, the first lap a stop gets you to the finish - and with automatic fuelling on,
+confirms he has the numbers and your margin before you commit to it. Series fuel limits are
+taken into account.
+
+**Saving a stop.** When saving a little fuel would finish the race on one fewer stop, he says how
+much: *"Save 0.3 liters a lap and we drop a stop."* He keeps you on the target without talking
+every lap, says when the stop's saved or can't be saved any more, and after a few laps tells you
+whether the lift is costing you more lap time than the stop would.
+
+**The pit window.** Once the fuel says a stop now won't add one, he checks every lap whether
+you'd rejoin in clean air or in traffic - any class, any lap - priced on the stop you'll really
+make (the fuel going in and the tyres you've selected): *"Box this lap - you'll come out in clean
+air"* or *"Not this lap - you'd come out 1.2 seconds behind the #23."* If fuel gets short and the
+traffic hasn't cleared, he tells you to box anyway.
 
 **The pit sequence.** Pit limiter reminders, a countdown to your box, the release ("go, go,
 go"), a heads-up about traffic when you merge out, and a reminder about the pit exit line. Ask
-*"where would I come out if I pit now"* and he'll tell you.
+*"where would I come out if I pit now"* or *"should I box this lap"* and he'll tell you.
 
 **Gaps and racing.** Gap to the car ahead and behind and which way it's trending, calls on
 passes as they happen, the class leader pitting, rivals pitting, position updates.

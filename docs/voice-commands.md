@@ -31,6 +31,9 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"fuel usage"* | Last lap, best, worst and stint average |
 | *"fuel to the end"* | Sets the pit stop to fill enough to finish, plus your margin |
 | *"fuel margin two laps"* | Changes the margin for the next stop only |
+| *"is the fuel window open"* | Whether a stop now costs no extra stop - or how many laps until it does |
+| *"how's the fuel saving"* / *"can we save a stop"* | The fuel save target and how you're doing against it |
+| *"our fuel save target is 2 point 4"* | Takes a target from your teammate's handover - see [Team races](features/iracing.html#team-races) |
 | *"how's my energy"* | Virtual Energy left - **LMU** |
 | *"fuel to energy balance"* | Whether fuel or energy runs out first - **LMU** |
 | *"how's my battery"* | Hybrid charge and which way it's going - **LMU** Hypercars |
@@ -105,6 +108,8 @@ When you want several things at once: *"tell me about my fuel"*, *"tell me about
   *"fuel to the end"*
 - **Also** - *"tearoff"* (**iRacing**), *"fast repair"*, *"clear the pit stop"*
 - *"What's my stop set to"* reads it back.
+- *"Should I box this lap"* checks the fuel and who you'd rejoin among. *"Where would I come out"*
+  gives your class position after the stop.
 
 ## Sectors
 
