@@ -32,6 +32,7 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"how's my fuel"* | He asks: laps remaining, or how much you're using? Answer *"laps"* or *"usage"* |
 | *"fuel usage"* | Last lap, best, worst and stint average |
 | *"fuel to the end"* | Sets the pit stop to fill enough to finish, plus your margin |
+| *"how much fuel do I need for qualifying"* / *"...for the race"* | Ask before you go out: the litres for that session from your own fuel use here, its laps or time, and your margin - and how many stops if it won't fit. Tells you, doesn't set it - **iRacing** |
 | *"full tank"* / *"fill it up"* | Sets the pit stop to a full tank - full energy in LMU. A series fuel limit counts as full |
 | *"fuel margin two laps"* / *"fuel margin half a lap"* / *"fuel margin a quarter lap"* | Changes the margin for the next stop only. *"Point five"* and *"point two five"* work too |
 | *"is the fuel window open"* | Whether a stop now costs no extra stop - or how many laps until it does |
