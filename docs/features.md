@@ -68,6 +68,9 @@ and a rejoin warning if something's coming when you're stopped on track.
 **Penalties.** What you got, how many laps you have left to serve it, and a reminder in the last
 sector on the laps that matter, so you're not finding out at the pit entry.
 
+**Setups.** When practice turns into qualifying he reminds you to load your qualifying setup,
+and when qualifying turns into the race, your race setup. Not in a fixed-setup series.
+
 **Race start.** A grid briefing - length, your position, tyre allowance, anything unusual about
 the rules - and a reminder to get heat in the tyres before the green.
 
