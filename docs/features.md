@@ -71,7 +71,8 @@ sector on the laps that matter, so you're not finding out at the pit entry.
 **Setups.** When practice turns into qualifying he reminds you to load your qualifying setup,
 and when qualifying turns into the race, your race setup. Not in a fixed-setup series.
 
-**Race start.** A grid briefing - length, your position, tyre allowance, anything unusual about
+**Race start.** A grid briefing - length, your position, how many stops and the lap the fuel
+window opens if it needs any, tyre allowance, anything unusual about
 the rules - a reminder to get heat in the tyres before the green, and a warning if you've
 gridded with less fuel than the race needs, with how much it does.
 
