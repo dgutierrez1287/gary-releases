@@ -32,6 +32,7 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"how's my fuel"* | He asks: laps remaining, or how much you're using? Answer *"laps"* or *"usage"* |
 | *"fuel usage"* | Last lap, best, worst and stint average |
 | *"fuel to the end"* | Sets the pit stop to fill enough to finish, plus your margin |
+| *"full tank"* / *"fill it up"* | Sets the pit stop to a full tank - full energy in LMU. A series fuel limit counts as full |
 | *"fuel margin two laps"* | Changes the margin for the next stop only |
 | *"is the fuel window open"* | Whether a stop now costs no extra stop - or how many laps until it does |
 | *"how's the fuel saving"* / *"can we save a stop"* | The fuel save target and how you're doing against it |
@@ -109,8 +110,8 @@ else if you've moved on; he won't keep waiting.
 
 - **Tyres** - *"four tyres"* (or *"change the tyres"*), *"fronts only"*, *"rears only"*, *"left side"*, *"change the right
   front"*, *"no tyres"*
-- **Fuel** - *"add 20 litres"*, *"add 5 laps of fuel"* (or *"of energy"* in LMU), *"no fuel"*, or
-  *"fuel to the end"*
+- **Fuel** - *"add 20 litres"*, *"add 5 laps of fuel"* (or *"of energy"* in LMU), *"no fuel"*,
+  *"fuel to the end"*, or *"full tank"* (also *"fill it up"*, *"brim it"*)
 - **Also** - *"tearoff"* (**iRacing**), *"fast repair"*, *"clear the pit stop"*
 - *"What's my stop set to"* reads it back.
 - *"Should I box this lap"* checks the fuel and who you'd rejoin among. *"Where would I come out"*
