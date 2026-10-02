@@ -72,7 +72,8 @@ sector on the laps that matter, so you're not finding out at the pit entry.
 and when qualifying turns into the race, your race setup. Not in a fixed-setup series.
 
 **Race start.** A grid briefing - length, your position, tyre allowance, anything unusual about
-the rules - and a reminder to get heat in the tyres before the green.
+the rules - a reminder to get heat in the tyres before the green, and a warning if you've
+gridded with less fuel than the race needs, with how much it does.
 
 **Weather and track.** Rain starting, the track getting wetter or drying, track temperature
 swings, and *"should I be on wets"* when it's in between.
