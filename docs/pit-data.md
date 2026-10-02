@@ -15,7 +15,8 @@ default:
   what a stop or a drive-through costs, and fuel you, at a car and track you've never driven.
 - **GPS for tracks that need it** - at a track still missing corner data, one clean lap's worth
   of position data, so corner names can be added. Most laps upload nothing at all.
-- **Tyre wear** - one row per stint: conditions, tyre wear, lap times, how hard the car was
+- **Tyre wear** - one row per stint: conditions, tyre wear, lap times (with the fuel on board and
+  whether you were in traffic on each lap, and how old the tyres were at the start), how hard the car was
   driven (cornering and braking load, how much of the braking was on ABS), the incident points
   picked up, and (unless it was a fixed setup) camber, toe and brake bias. Used to build a tyre
   wear model.
