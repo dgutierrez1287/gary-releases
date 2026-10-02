@@ -5,8 +5,8 @@ nav_order: 5
 
 # Voice commands
 
-Hold your push-to-talk button and speak - or, with the [wake name](first-run.html#wake-name) on,
-start with *"Gary"*. Each of these has lots of accepted wordings - the examples below are just one
+Hold your push-to-talk button while you speak, or tap it and then speak - or, with the
+[wake name](first-run.html#wake-name) on, start with *"Gary"*. Each of these has lots of accepted wordings - the examples below are just one
 each.
 
 {: .note }
@@ -33,7 +33,7 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"fuel usage"* | Last lap, best, worst and stint average |
 | *"fuel to the end"* | Sets the pit stop to fill enough to finish, plus your margin |
 | *"full tank"* / *"fill it up"* | Sets the pit stop to a full tank - full energy in LMU. A series fuel limit counts as full |
-| *"fuel margin two laps"* | Changes the margin for the next stop only |
+| *"fuel margin two laps"* / *"fuel margin half a lap"* / *"fuel margin a quarter lap"* | Changes the margin for the next stop only. *"Point five"* and *"point two five"* work too |
 | *"is the fuel window open"* | Whether a stop now costs no extra stop - or how many laps until it does |
 | *"how's the fuel saving"* / *"can we save a stop"* | The fuel save target and how you're doing against it |
 | *"our fuel save target is 2 point 4"* | Takes a target from your teammate's handover - see [Team races](features/iracing.html#team-races) |
@@ -51,6 +51,11 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"what's going on with the car ahead"* | Gap, their last lap, and the trend |
 | *"where's the car behind"* | Where they are on track |
 | *"who's leading"* | The leader |
+| *"where's the leader"* | Where the leader is on track, and how far up the road - **iRacing** |
+| *"where's P3"* / *"where's the car in position 3"* | Who's in that position and where they are - **iRacing** |
+| *"where's my class leader"* | Your class leader, wherever they are - **iRacing** |
+| *"where's the nearest GTP"* / *"where's the GT3 leader"* | The closest car of a class, ahead or behind, or that class's leader - **iRacing**. See [the class list](#classes-by-name) |
+| *"where's the nearest faster car"* / *"...slower car"* | The closest car from a faster or slower class than yours - works whatever the classes are called - **iRacing** |
 | *"how long is left"* | Time or laps remaining |
 | *"status update"* | Position, gaps and fuel in one go |
 | *"do I need another stop"* | Whether you can make the finish |
@@ -93,9 +98,26 @@ with how they moved that lap. Race only; it switches itself off when you pit or 
 
 ## Other drivers
 
-By name - *"where is Verstappen"*, *"last lap for Hamilton"*, *"best lap for Norris"*, *"is
-Leclerc in my class"*, *"what tyres is Russell on"*, *"iRating for Piastri"* (**iRacing**).
-*"What's my iRating"* works for you too.
+By name - *"where is Verstappen"* (where they are on track, their position and the gap on the road -
+**iRacing**), *"what position is Verstappen in"*, *"last lap for Hamilton"*, *"best lap for
+Norris"*, *"is Leclerc in my class"*, *"what tyres is Russell on"*, *"iRating for Piastri"*
+(**iRacing**). *"What's my iRating"* works for you too.
+
+### Classes by name
+
+Say class names as letters - *"G T three"*, *"L M P two"*. Gary knows:
+
+| Class | Say |
+|---|---|
+| GTP | *"G T P"* or *"hypercar"* |
+| LMP1 / LMP2 / LMP3 | *"L M P one"*, *"L M P two"* (or *"P two"*), *"L M P three"* (or *"P three"*) |
+| GT1 / GT2 / GT3 / GT4 / GTE | *"G T one"* ... *"G T four"*, *"G T E"* |
+| TCR / HPD | *"T C R"*, *"H P D"* |
+| Production Car Challenge | *"M two"*, *"G R eighty six"* (or *"eighty six"*), *"Clio"*, *"M X five"* (or *"Miata"*) |
+| Others | *"Porsche Cup"* (or *"cup car"*), *"C T S V"*, *"Kia"* |
+
+A class that isn't on the list can still be found with *"where's the nearest faster car"* or
+*"...slower car"*, and *"where's my class leader"* works for your own class whatever it's called.
 
 ## Briefings
 

@@ -24,7 +24,8 @@ cloud, no internet needed to talk.
 
 **Lap times.** Your time after each lap and whether it was good, with where you found or lost
 it - either as a sector rundown at the end of the lap or live, sector by sector (your choice in
-Settings, or just tell him).
+Settings, or just tell him). A lap that doesn't count - off track, cut a corner - gets its time and
+that it's gone, never *"personal best"*.
 
 **Turn by turn.** In practice, qualifying and testing, say *"turn by turn on"* and after each
 lap - or each sector, if you ask - he tells you which corners you lost or found time in against
@@ -50,7 +51,8 @@ make (the fuel going in and the tyres you've selected): *"Box this lap - you'll 
 air"* or *"Not this lap - you'd come out 1.2 seconds behind the #23."* If fuel gets short and the
 traffic hasn't cleared, he tells you to box anyway.
 
-**The pit sequence.** Pit limiter reminders, a countdown to your box, the release ("go, go,
+**The pit sequence.** What the stop should cost, said on the way to the pit entry so it's done
+before the countdown starts; pit limiter reminders, a countdown to your box, the release ("go, go,
 go"), a heads-up about traffic when you merge out, and a reminder about the pit exit line. Ask
 *"where would I come out if I pit now"* or *"should I box this lap"* and he'll tell you.
 

@@ -38,12 +38,14 @@ Almost everything is local:
 %AppData%\Gary\settings.json    your settings
 %AppData%\Gary\logs\            one log per launch
 %AppData%\Gary\voices\          voices you downloaded
-%AppData%\Gary\history\         lap and pit stop history he's learned from
+%AppData%\Gary\history\         lap and pit stop history he's learned from - including every
+                                clean lap and its conditions
 %AppData%\Gary\pit-data\        your installation's upload token
 ```
 
 Deleting `settings.json` resets Gary to defaults. Deleting `history` makes him forget your
-reference laps and pit times, and he'll start relearning them.
+reference laps, your bests in each set of conditions and your pit times, and he'll start
+relearning them.
 
 ## Common issues
 

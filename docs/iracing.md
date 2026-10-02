@@ -23,6 +23,41 @@ and track you've never driven before:
 
 Your own laps take over as soon as there are some.
 
+## Your best in these conditions
+
+Gary keeps every clean lap you drive with the conditions it was set in, and compares you against
+your best **in conditions like now's**, not a lap from a cool morning on a rubbered-in track:
+
+- **Wet and dry never mix.** Dry, damp, wet and very wet each have their own best - and damp on
+  slicks is kept apart from damp on wets.
+- **Track temperature within 10%** of what it is now - a narrow window when it's cool, a wider one
+  when it's hot. Below 10 °C it's one cold window.
+- **In practice and qualifying**, the sector rundown at the end of the lap is against your
+  fastest lap in these conditions, and live sector calls against your best sectors in them. If
+  you've nothing in these conditions yet, he says so and uses your overall best.
+- **In a race**, they're against your best lap of that race - fuel, tyre wear and traffic make a
+  race lap a different thing from a hotlap.
+
+**Race pace.** In a race Gary also watches your last three clean laps against your best in these
+conditions. If you're well off it - more than 2% - he tells you, says it again if nothing changes
+(no more than every 10 laps), and tells you when you're back on it. Laps with traffic, a caution,
+an off, fuel saving or cold tyres after a stop don't count. With *Let the crew chief swear* on, he
+gets a lot less polite about it.
+
+The more you drive a car and track, the more conditions Gary has a best for. Your first session
+at a combination compares against your overall best until the laps build up.
+
+## Where is everyone
+
+Ask where any car is and Gary tells you the corner they're in (or how far round the lap), their
+position, and the gap on the road to you - or how many laps up or down in a race:
+
+> *"Max Driver, position 3, is coming through Remus, 2.3 seconds up the road from you."*
+
+By name (*"where is Verstappen"*), by position (*"where's P3"*), the leader, your class leader,
+the nearest car or the leader of a class (*"where's the nearest GTP"*), or the nearest car from a
+faster or slower class. See [Voice commands](../voice-commands.html#race).
+
 ## Chase a Garage61 lap
 
 Connect Garage61 on Gary's front page and, in an **offline test session**, ask *"find me a

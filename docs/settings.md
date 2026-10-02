@@ -14,7 +14,7 @@ push-to-talk button restarts Gary by itself.
 |---|---|
 | **Game** | iRacing or Le Mans Ultimate |
 | **Always on top** | Keeps Gary above your sim window - handy on a second monitor |
-| **Push-to-talk button** | **Map...** a button on your wheel or button box. No button mapped = Gary doesn't listen. See [First run](first-run.html#push-to-talk) |
+| **Push-to-talk button** | **Map...** a button on your wheel or button box. Hold it while you talk, or tap it and then talk - both work. No button mapped = Gary doesn't listen. See [First run](first-run.html#push-to-talk) |
 | **Listen without a push-to-talk button** | Hands-free always-on mic. Off by default - it acts on anything it hears |
 | **Wake name** | Talk to Gary by saying his name - see [First run](first-run.html#wake-name). Off by default. You can change the name |
 | **Microphone** / **Speaker** | Which devices Gary listens on and talks through |
@@ -65,8 +65,8 @@ monitor that's no longer connected, it comes back onto your main one.
 | Setting | What it does |
 |---|---|
 | **Fuel warning laps** | When to warn, as laps of fuel left. `4,2` warns twice |
-| **Auto fuel margin** | Spare laps added on top of *"fuel to the end"* and automatic fuelling |
-| **Let Gary set my fuel at every race stop** | One tickbox per sim. When you turn into the pits in a race, Gary sets fuel (or Virtual Energy in LMU) for the end plus your margin, and tells you what he set. Say *"fuel margin two laps"* to change the margin for one stop |
+| **Auto fuel margin** | Spare laps added on top of *"fuel to the end"* and automatic fuelling. Fractions are fine - `0.5` or `0,5` |
+| **Let Gary set my fuel at every race stop** | One tickbox per sim. When you turn into the pits in a race, Gary sets fuel (or Virtual Energy in LMU) for the end plus your margin, and tells you what he set. Say *"fuel margin two laps"* (or *"half a lap"*, *"a quarter lap"*) to change the margin for one stop |
 | **Track Virtual Energy** | **LMU**, experimental. Reads a separately installed community plugin for extra energy detail - turn off if it misbehaves |
 
 **Tyres (LMU)**
@@ -103,6 +103,7 @@ monitor that's no longer connected, it comes back onto your main one.
 |---|---|
 | **Start minimized to tray** | On by default |
 | **Automatically start when the app launches** | On by default - Gary connects without you pressing Start |
+| **CPU cores Gary can use** | Tick the cores Gary - and his voice - may run on, to keep him off the cores your sim is using. Nothing ticked lets Windows decide. Numbered as in Task Manager; on a Ryzen with two core dies, the second half of the list is the second die. Takes effect when you save |
 
 **Sharing (iRacing)** - see [Pit data & privacy](pit-data.html).
 
