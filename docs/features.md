@@ -18,9 +18,11 @@ questions. Each sim also has things only it can do, because each one exposes dif
 
 ## In both sims
 
-**Crew chief and spotter.** Two separate voices. The spotter calls cars alongside, clear, and
-three-wide; the crew chief handles everything else. Both voices run locally on your PC - no
-cloud, no internet needed to talk.
+**Crew chief and spotter.** Two separate voices. The spotter calls cars alongside, which side
+cleared, and three-wide (and which side of the three you're on); the crew chief handles
+everything else. Both voices run locally on your PC - no cloud, no internet needed to talk. The
+spotter can also use a recorded [voice pack](spotter-packs.html), including the spotters from
+CrewChief.
 
 **Lap times.** Your time after each lap and whether it was good, with where you found or lost
 it - either as a sector rundown at the end of the lap or live, sector by sector (your choice in

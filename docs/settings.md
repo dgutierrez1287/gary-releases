@@ -90,11 +90,12 @@ monitor that's no longer connected, it comes back onto your main one.
 
 | Setting | What it does |
 |---|---|
-| **Crew chief voice** / **Spotter voice** | Any voice, either role. Each one is described in the dropdown (accent, male or female). **Download selected voices** fetches ones you don't have yet; **Clear unused** deletes ones you're not using |
+| **Crew chief voice** / **Spotter voice** | Any voice, either role. Each one is described in the dropdown (accent, male or female). **Download selected voices** fetches ones you don't have yet; **Clear unused** deletes ones you're not using. The spotter list also has any [spotter voice packs](spotter-packs.html) you've installed |
 | **Better voice understanding (Whisper)** | When Gary doesn't catch a push-to-talk command, a second listener on your PC has another go, so more ways of saying things work. Downloads a 78 MB model the first time. Off by default |
 | **Radio voice effect** | Makes the crew chief sound like he's on the radio. Urgent calls are never degraded |
 | **Radio click and squelch on crew chief messages** | Radio click on crew chief messages, with a choice of start sound. Untick it for no click at all - the radio voice effect stays |
 | **Radio click and squelch on spotter calls** | The same for the spotter, set separately |
+| **Radio effect on spotter voice packs** | The spotter's click and squelch when it's using a [voice pack](spotter-packs.html), in place of the setting above. Off by default - most packs already sound like a radio |
 | **Crew chief volume** / **Spotter volume** | 0 to 200%. Above 100% makes the voice louder with the loudest peaks softened rather than clipped - useful if Gary is lost under the iRacing spotter |
 
 **Startup**

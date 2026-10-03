@@ -1,6 +1,6 @@
 ---
 title: Pit data & privacy
-nav_order: 7
+nav_order: 8
 ---
 
 # Pit data & privacy
