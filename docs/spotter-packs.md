@@ -52,8 +52,8 @@ Gary reads them from CrewChief's sound folder and never changes anything in it:
 
 ## Choosing a pack
 
-**Settings → Spotter voice**, pick the pack and **Save**, then **Stop** and **Start**. The pack's
-radio check plays the next time you open Gary.
+**Settings → Spotter voice**, pick the pack and **Save**. Gary switches straight away - if it's
+running, it restarts itself and the pack answers the radio check.
 
 - CrewChief's spotters are listed as **Name (CrewChief pack)**.
 - Packs from `Documents\Gary\SpotterPacks` are listed as **Name (voice pack)**.
@@ -78,7 +78,7 @@ With a pack, the captions show what Gary's own spotter would have said, not the 
 
 ## Going back
 
-Pick any of Gary's voices in **Spotter voice**, **Save**, then **Stop** and **Start**.
+Pick any of Gary's voices in **Spotter voice** and **Save**.
 
 If you delete a pack while it's selected, Gary uses the default spotter the next time it starts.
 

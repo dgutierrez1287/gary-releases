@@ -89,8 +89,8 @@ one after `spotter_`.
 ## Trying it
 
 1. Put both folders in `Documents\Gary\SpotterPacks`.
-2. **Settings → Spotter voice**, pick **Name (voice pack)**, **Save**, then **Stop** and **Start**.
-3. Restart Gary to hear your radio check.
+2. **Settings → Spotter voice**, pick **Name (voice pack)** and **Save**. If Gary is running, it
+   restarts itself and plays your radio check.
 
 Gary's log shows which pack it loaded, and the caption box can show each spotter call as it
 plays, which helps you check that the right recording comes at the right moment.
