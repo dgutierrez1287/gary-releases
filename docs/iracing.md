@@ -49,10 +49,14 @@ at a combination compares against your overall best until the laps build up.
 
 ## Where is everyone
 
-Ask where any car is and Gary tells you the corner they're in (or how far round the lap), their
-position, and the gap on the road to you - or how many laps up or down in a race:
+Ask where any car is and Gary tells you the corner they're in - or the one they're closest to,
+or the straight they're on - their position, and the gap to you:
 
-> *"Max Driver, position 3, is coming through Remus, 2.3 seconds up the road from you."*
+> *"Max Driver, P3 in class, is coming through Remus, 2.3 seconds up the road from you."*
+
+In a multiclass race positions mean **your class** unless you say *"overall"*. A car a lap or more
+up or down gets both: *"a lap down, 8.0 seconds behind you on the road"*. A faster car on your
+lap that's about to lap you is *"behind you"*, not most of a lap up the road.
 
 By name (*"where is Verstappen"*), by position (*"where's P3"*), the leader, your class leader,
 the nearest car or the leader of a class (*"where's the nearest GTP"*), or the nearest car from a

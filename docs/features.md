@@ -40,10 +40,13 @@ for you every time you turn into the pits in a race, then tells you what he set.
 confirms he has the numbers and your margin before you commit to it. Series fuel limits are
 taken into account.
 
-**Saving a stop.** When saving a little fuel would finish the race on one fewer stop, he says how
-much: *"Save 0.3 liters a lap and we drop a stop."* He keeps you on the target without talking
-every lap, says when the stop's saved or can't be saved any more, and after a few laps tells you
-whether the lift is costing you more lap time than the stop would.
+**Saving a stop.** When saving a little fuel would finish the race on one fewer stop, he offers
+it: *"We can drop a stop if you save a bit - 2.5 liters a lap instead of the 2.6 you're using.
+Want to go for it?"* Say *"yes"* and he gives you the burn after every lap (*"2.53 liters that
+lap, on target"*), tells you if the target moves, says when the stop's saved or can't be saved any
+more, and after a few laps whether the lift is costing you more lap time than the stop would. Say
+*"no"* - or ignore it twice - and he leaves you alone. *"Let's save fuel"* or *"forget the fuel
+save"* change your mind any time. The target includes your fuel margin.
 
 **The pit window.** Once the fuel says a stop now won't add one, he checks every lap whether
 you'd rejoin in clean air or in traffic - any class, any lap - priced on the stop you'll really
