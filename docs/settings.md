@@ -5,8 +5,10 @@ nav_order: 6
 
 # Settings
 
-Settings take effect on **Stop then Start**, or on the next launch. Changing a voice or your
-push-to-talk button restarts Gary by itself.
+Settings take effect when you **Save**. Some - the voices, volumes, devices, warning thresholds
+and units - only load when Gary starts, so if Gary is running and you change one of those, it
+restarts itself. Mid-race, that starts Gary's fuel average for the session again. Everything else
+applies without a restart.
 
 ## On the front page
 
