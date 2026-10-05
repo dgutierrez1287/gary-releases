@@ -25,10 +25,16 @@ in **Windows Settings → Time & language → Speech** (or **Language & region**
 
 ## Updates
 
-Automatic. Gary checks on launch, downloads quietly in the background, and applies the new
-version next time you start him. He never restarts himself mid-session — the one exception is
-finishing a voice download (see [Voices](first-run.html#voices)), which needs a restart to take
-effect and tells you before it happens.
+Automatic. Gary checks when you start him and every 2 hours while he's running, and downloads
+new versions quietly in the background. When one is ready, a banner drops down at the top of his
+window:
+
+- **Update now** restarts Gary on the new version straight away.
+- **Remind me later** hides the banner for 2 hours.
+
+Ignore it and the update installs next time you start Gary. He never restarts himself
+mid-session — the one exception is finishing a voice download (see [Voices](first-run.html#voices)),
+which needs a restart to take effect and tells you before it happens.
 
 ## Uninstall
 
