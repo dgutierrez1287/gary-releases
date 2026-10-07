@@ -110,6 +110,15 @@ Set up your stop by voice: *"four tyres"*, *"left side"*, *"add 20 litres"*, *"a
 fuel"*, *"tearoff"*, *"fast repair"*, *"clear the pit stop"* - or *"set up my pit stop"* to be
 walked through it. *"What's my stop set to"* reads it back.
 
+### Long repair stops
+
+Stop with damage and he tells you the required and optional repair time, then counts it down -
+every 2 minutes, every minute from 5, then 30, 10 and 5 seconds. On a long wait he tells you to
+grab a drink, calls you back to the seat at a minute, and chirps at 30 seconds. When the required
+work is done he says whether to go now or stay for the optionals, if the answer's obvious. He also
+tells you where you'll rejoin: your class position, how many laps down, and whether the pit exit
+will be busy. Ask *"how long on repairs"* any time.
+
 ## Tyres
 
 - **Two-compound rule.** For the cars that have more than one dry compound (IR18, iR-01, and the
@@ -133,6 +142,11 @@ walked through it. *"What's my stop set to"* reads it back.
   one fill makes it (good time to pit), or whether topping off now pushes your next stop back.
 - The free pass, being waved around, and being sent to the tail of the line.
 - Penalty laps counted the oval way - only green-flag laps.
+
+## After the flag
+
+Laps you drive after the chequered still count for safety rating until the session clock runs
+out. Gary tells you how long is left on it, and says when it's run out and the session's done.
 
 ## Incidents
 

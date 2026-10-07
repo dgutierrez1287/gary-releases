@@ -141,6 +141,7 @@ else if you've moved on; he won't keep waiting.
 - **Fuel** - *"add 20 litres"*, *"add 5 laps of fuel"* (or *"of energy"* in LMU), *"no fuel"*,
   *"fuel to the end"*, or *"full tank"* (also *"fill it up"*, *"brim it"*)
 - **Also** - *"tearoff"* (**iRacing**), *"fast repair"*, *"clear the pit stop"*
+- *"How long on repairs"* - required and optional repair time left (**iRacing**).
 - *"What's my stop set to"* reads it back.
 - *"Should I box this lap"* checks the fuel and who you'd rejoin among. *"Where would I come out"*
   gives your class position after the stop.

@@ -48,7 +48,8 @@ Want to go for it?"* Say *"yes"* and he gives you the burn after every lap (*"2.
 lap, on target"*), tells you if the target moves, says when the stop's saved or can't be saved any
 more, and after a few laps whether the lift is costing you more lap time than the stop would. Say
 *"no"* - or ignore it twice - and he leaves you alone. *"Let's save fuel"* or *"forget the fuel
-save"* change your mind any time. The target includes your fuel margin.
+save"* change your mind any time. The target includes your fuel margin, but he won't offer a save
+when the margin is all you're short of, or with fewer than 4 laps to go.
 
 **The pit window.** Once the fuel says a stop now won't add one, he checks every lap whether
 you'd rejoin in clean air or in traffic - any class, any lap - priced on the stop you'll really
@@ -64,8 +65,8 @@ go"), a heads-up about traffic when you merge out, and a reminder about the pit 
 **Gaps and racing.** Gap to the car ahead and behind and which way it's trending, calls on
 passes as they happen, the class leader pitting, rivals pitting, position updates.
 
-**Multiclass.** Faster classes coming up behind, slower traffic ahead, lapped cars, blue flags -
-and class-best lap times so you know where you stand in your class, not the whole field.
+**Multiclass.** Faster classes coming up behind, slower traffic ahead, lapped cars, blue flags
+(naming the class of the car lapping you) - and class-best lap times so you know where you stand in your class, not the whole field.
 
 **Flags and incidents.** Yellows, sector yellows, debris, black flags, off-tracks, spins, damage,
 and a rejoin warning if something's coming when you're stopped on track.
@@ -80,6 +81,12 @@ and when qualifying turns into the race, your race setup. Not in a fixed-setup s
 window opens if it needs any, tyre allowance, anything unusual about
 the rules - a reminder to get heat in the tyres before the green, and a warning if you've
 gridded with less fuel than the race needs, with how much it does.
+
+**A bit of personality.** Now and then in a race he says something that isn't about the car - a
+long battle, a rival in trouble, a clean run, the last few to go - never more than a line every
+few minutes. After you cross the line he gives his take on how it went against where you were
+expected to finish (your rating in iRacing, your grid slot in Le Mans Ultimate). With *Let the
+crew chief swear* on, some of it is a lot less polite.
 
 **Weather and track.** Rain starting, the track getting wetter or drying, track temperature
 swings, and *"should I be on wets"* when it's in between.
