@@ -69,7 +69,8 @@ passes as they happen, the class leader pitting, rivals pitting, position update
 (naming the class of the car lapping you) - and class-best lap times so you know where you stand in your class, not the whole field.
 
 **Flags and incidents.** Yellows, sector yellows, debris, black flags, off-tracks, spins, damage,
-and a rejoin warning if something's coming when you're stopped on track.
+and a rejoin warning if something's coming when you're stopped on track. When a rival ahead of
+you stops on track he says who - and in iRacing, where: "stopped on track at Turn 3".
 
 **Penalties.** What you got, how many laps you have left to serve it, and a reminder in the last
 sector on the laps that matter, so you're not finding out at the pit entry.
@@ -95,7 +96,8 @@ swings, and *"should I be on wets"* when it's in between.
 it - fuel use, pace, and how much the lap times fell away over the stint.
 
 **Turn names.** At tracks Gary has corner data for, calls use the corner names (or numbers, if
-you prefer - just say so).
+you prefer - just say so). Corners a track officially letters, like 5a, 5b and 5c, are called that
+way, so the numbers after them still match the track map.
 
 **Gaps every lap, on request.** *"Give me the gaps every lap"* (or every few laps, or one side
 only) for a fight at the end of a race - how far ahead and behind, and how it moved that lap.
