@@ -22,7 +22,7 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"what's my delta"* | How far up or down you are on your best |
 | *"last lap"* | The time you just did |
 | *"best lap"* | Your best of the session |
-| *"sector times"* | Your last sectors against your best |
+| *"sector times"* | Each sector of your last lap |
 
 ## Fuel and energy
 
