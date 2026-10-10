@@ -7,8 +7,8 @@ nav_order: 8
 
 ## What gets uploaded
 
-**iRacing only, for now.** Three things, each with its own switch in **Settings**, all on by
-default:
+Three things, each with its own switch in **Settings**, all on by default. Pit stops and GPS are
+iRacing only for now; tyre wear is both sims:
 
 - **Pit stops** - car, track, series and the timing breakdown: time lost in the pit lane, how
   long fuel and tyres took, fuel burned per lap over the stint. This is what lets Gary tell you
@@ -19,11 +19,20 @@ default:
   whether you were in traffic on each lap, and how old the tyres were at the start), how hard the car was
   driven (cornering and braking load, how much of the braking was on ABS), the incident points
   picked up, and (unless it was a fixed setup) camber, toe and brake bias. Used to build a tyre
-  wear model.
+  wear model. **In Le Mans Ultimate** the row is the same idea in its own LMU table: tyre wear per
+  corner, compounds, lap times and fuel, conditions, the session's wear and fuel multipliers, and
+  any damage and lockups during the stint.
 
 **Nothing that identifies you is sent.** No name, no Windows username, no driver ID - the upload
 is tied to a random per-installation token, not to you. Turning any of these off stops only the
 upload; everything Gary does locally keeps working the same.
+
+## The keyboard (Le Mans Ultimate)
+
+If you've bound **regen up and down to keyboard keys** in LMU, Gary watches those two keys - and only
+those two - so he can follow your regen setting (LMU doesn't publish it). Every other key is
+ignored the moment it arrives; nothing you type is looked at, kept or sent. With regen bound to a
+wheel button instead, Gary watches that button the same way he watches push-to-talk.
 
 ## What never leaves your machine
 

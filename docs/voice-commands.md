@@ -38,6 +38,7 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"is the fuel window open"* | Whether a stop now costs no extra stop - or how many laps until it does |
 | *"how's the fuel saving"* / *"am I under the fuel target"* | Last lap against the fuel save target, and how much you're in hand or short since the save started |
 | *"what's my fuel target"* / *"how much fuel should I be using"* | The fuel save target |
+| *"how's my fuel ratio"* / *"what should my fuel ratio be"* | The FUEL RATIO that's set, what you're actually using, and what to set at the next stop - **LMU** |
 | *"let's save fuel"* / *"forget the fuel save"* | Start or stop saving to drop a stop - any time, not just when Gary offers it |
 | *"our fuel save target is 2 point 4"* | Takes a target from your teammate's handover - see [Team races](features/iracing.html#team-races) |
 | *"how's my energy"* | Virtual Energy left - **LMU** |
@@ -55,13 +56,13 @@ Commands marked **iRacing** or **LMU** only work in that sim.
 | *"what's going on with the car ahead"* | Gap, their last lap, and the trend |
 | *"where's the car behind"* | Where they are on track |
 | *"who's leading"* | The leader |
-| *"where's the leader"* | Where the leader is on track, and how far up the road - **iRacing** |
-| *"where's P3"* / *"where's the car in position 3"* | Who's in that position and where they are. In a multiclass race that's P3 in **your class** - add *"overall"* for the overall position - **iRacing** |
-| *"where's P1 in L M P two"* / *"where's P3 in my class"* | A class position - **iRacing** |
-| *"where's the overall leader"* | The overall leader, whatever the class - **iRacing** |
-| *"where's my class leader"* | Your class leader, wherever they are - **iRacing** |
-| *"where's the nearest GTP"* / *"where's the GT3 leader"* | The closest car of a class, ahead or behind, or that class's leader - **iRacing**. See [the class list](#classes-by-name) |
-| *"where's the nearest faster car"* / *"...slower car"* | The closest car from a faster or slower class than yours - works whatever the classes are called - **iRacing** |
+| *"where's the leader"* | Where the leader is on track, and how far up the road |
+| *"where's P3"* / *"where's the car in position 3"* | Who's in that position and where they are. In a multiclass race that's P3 in **your class** - add *"overall"* for the overall position |
+| *"where's P1 in L M P two"* / *"where's P3 in my class"* | A class position |
+| *"where's the overall leader"* | The overall leader, whatever the class |
+| *"where's my class leader"* | Your class leader, wherever they are |
+| *"where's the nearest GTP"* / *"where's the GT3 leader"* | The closest car of a class, ahead or behind, or that class's leader. In LMU, *"hypercar"* works too. See [the class list](#classes-by-name) |
+| *"where's the nearest faster car"* / *"...slower car"* | The closest car from a faster or slower class than yours - works whatever the classes are called |
 | *"how long is left"* | Time or laps remaining |
 | *"status update"* | Position, gaps and fuel in one go |
 | *"do I need another stop"* | Whether you can make the finish |
@@ -104,8 +105,8 @@ with how they moved that lap. Race only; it switches itself off when you pit or 
 
 ## Other drivers
 
-By name - *"where is Verstappen"* (where they are on track, their position and the gap on the road -
-**iRacing**), *"what position is Verstappen in"*, *"last lap for Hamilton"*, *"best lap for
+By name - *"where is Verstappen"* (where they are on track, their position and the gap on the road),
+or just their surname or first name, *"where's Estre"* - then *"what position is Verstappen in"*, *"last lap for Hamilton"*, *"best lap for
 Norris"*, *"is Leclerc in my class"*, *"what tyres is Russell on"*, *"iRating for Piastri"*
 (**iRacing**). *"What's my iRating"* works for you too.
 

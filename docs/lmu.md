@@ -40,10 +40,29 @@ covers the track limit rule for the race.
 
 ## Hybrid (Hypercars)
 
-Gary keeps an eye on the battery and speaks up when it's heading flat or sitting full, and after
-you change the deploy map - so you know to change regen or deployment before it costs you. He
-remembers how the battery went per car and track, so *"how did the battery go here last time"*
-gives you a starting point.
+Gary keeps an eye on the battery and speaks up when it's draining, building or sitting full - and
+**tells you which click to make**. Draining: *"take regen up a click, to 153 kilowatts"*, or once
+regen is maxed, *"take deploy down a click"*. Building: deploy up, then regen down. He knows where
+both settings are and how far each can go, so he never suggests a click that isn't there.
+
+**He follows your regen setting.** LMU doesn't publish it while you drive, so Gary reads which
+buttons or keys LMU has bound to regen up and down - wheel, button box, keyboard or a Stream Deck
+hotkey - and counts your presses, checking the count every lap against how hard the battery
+charged. Bind regen in LMU's controls and it just works.
+
+**He learns what works.** Every lap on one deploy and regen setting is remembered per car and
+track. After a few laps, the battery calls use that to say how many clicks, and a new session can
+open with *"from your laps here, deploy 40 with regen 170 held the battery about level"*. In a race
+he aims to finish with about 15 percent. *"How did the battery go here last time"* still gives
+you the last race.
+
+*"How's my fuel ratio"* tells you the FUEL RATIO that's set, what your driving actually uses, and
+what to set at the next stop.
+
+## Damage
+
+Punctures and lost wheels by corner, dents by area of the car - front, rear, each side and each
+corner - and suspension damage, called when it happens and on request.
 
 ## Sectors
 
