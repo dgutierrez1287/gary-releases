@@ -182,9 +182,13 @@ else if you've moved on; he won't keep waiting.
 | *"quiet mode"* / *"pipe down"* | Only urgent calls get through |
 | *"back to normal"* | Normal chatter |
 | *"keep me informed"* | Everything |
+| *"say again"* / *"come again"* / *"what was that"* | Repeats his last call, word for word. If it was a question, he asks it again so you can answer |
 | *"mute the spotter"* / *"spotter on"* | Spotter only |
 | *"mute debris warnings"* / *"debris warnings on"* | Debris calls only |
 | *"race prep on"* / *"race prep off"* | Practice-stint debriefs |
+
+To switch particular calls off for good, use the [Customization tab](settings.html#customization)
+in Settings.
 
 There is also one command that does nothing useful whatsoever. You'll find it.
 

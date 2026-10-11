@@ -110,6 +110,12 @@ Set up your stop by voice: *"four tyres"*, *"left side"*, *"add 20 litres"*, *"a
 fuel"*, *"tearoff"*, *"fast repair"*, *"clear the pit stop"* - or *"set up my pit stop"* to be
 walked through it. *"What's my stop set to"* reads it back.
 
+**A box right at the pit entry.** Some tracks put your box only a few car lengths past the
+cones, so there's no time for the usual countdown. Gary works out where the pit entry is before
+your first stop, and when your box is that close he keeps it short. Before the cones he only says
+he has the fuel amount. You get one box call, and the fuel readback and stop estimate come once
+you're stopped.
+
 ### Long repair stops
 
 Stop with damage and he tells you the required and optional repair time, then counts it down -
@@ -150,6 +156,10 @@ out. Gary tells you how long is left on it, and says when it's run out and the s
 
 ## Incidents
 
+**Incident ahead.** When any car is stopped or crawling on the road just ahead of you, Gary says
+*"Incident ahead"* straight away, and *"Incident behind"* when it's right behind you. It's short
+on purpose, so you hear it in time.
+
 Your incident count, a warning as you get close to the limit, and *"where did I pick up my
 incidents"* for a rundown.
 
@@ -161,7 +171,8 @@ multiclass).
 ## Team races
 
 When a teammate is driving, Gary goes quiet - he's not going to talk you through someone else's
-stint. Their stops and stints still feed the shared data.
+stint. The exception is incidents: *"incident ahead"* and a rival ahead in trouble are still
+called, so you can pass them on. Their stops and stints still feed the shared data.
 
 If you're saving fuel to drop a stop, he works out the target in the box before you climb out and
 says it once as your teammate takes over: *"Fuel save target for your teammate is 2.4 liters a lap

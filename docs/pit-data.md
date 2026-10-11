@@ -37,7 +37,8 @@ wheel button instead, Gary watches that button the same way he watches push-to-t
 ## What never leaves your machine
 
 Everything else. Your settings, your logs, your lap and pit history — all local, all in
-`%AppData%\Gary`. See [Where Gary keeps things](troubleshooting.html#where-gary-keeps-things)
+`%AppData%\Gary`. The [pit wall](pit-wall.html) is served from your own PC. Devices on your home
+network can open it, but nothing is sent anywhere else. See [Where Gary keeps things](troubleshooting.html#where-gary-keeps-things)
 for the full breakdown.
 
 ## A log does contain personal information

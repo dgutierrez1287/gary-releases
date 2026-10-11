@@ -22,8 +22,12 @@ applies without a restart.
 | **Microphone** / **Speaker** | Which devices Gary listens on and talks through |
 | **Garage61** | **Connect** signs you in through your browser (Gary never sees your password); **Laps from** picks whose laps you chase - All drivers or one of your teams. iRacing only - see [Chase a Garage61 lap](features/iracing.html#chase-a-garage61-lap) |
 | **Voice recognition** | *Modern* uses your Windows default mic; *Classic* lets you pick one. If commands feel unreliable, try the other |
+| **Pit wall** | Opens the [pit wall](pit-wall.html) in your browser. The address under it opens it on a tablet or phone on the same network |
 
 ## In the Settings window
+
+The Settings window has two tabs: **Main**, which has everything below, and
+**[Customization](#customization)**, where you choose which calls Gary makes.
 
 **Voices on or off**
 
@@ -131,6 +135,25 @@ monitor that's no longer connected, it comes back onto your main one.
 | **Log performance timing** | Writes how much work Gary is doing to the log once a minute. Leave off unless asked |
 | **Show the test checklist button** | A small always-on-top checklist window, for testing |
 | **Log window: show only the voice transcript** | The log window shows just what Gary heard you say (or ignored, and why) and what Gary and the spotter said. Useful when a command isn't working. The log file still has everything |
+
+## Customization
+
+![The Customization tab: a switch for each group of calls](assets/settings-customization.png)
+
+Choose what Gary says on his own. Each group of calls has one switch: fuel & energy, pit lane, pit
+strategy, tyres, damage & incidents, penalties, flags, traffic, position & gaps, lap times, session
+& conditions, banter, the spotter and the radio check. A group shows *"5 of 9 on"* when only some
+of its calls are on. Clicking it turns the whole group on, or off if it was all on.
+
+**Advanced…** lists every call on its own with a line on what it is, so you can keep the box calls
+and lose the fuel warnings, or keep the blue flags and lose the rest.
+
+- Questions you ask are always answered, whatever's switched off here.
+- Switching off a safety call (the spotter's *car left / right* and *three wide*, the rejoin
+  warning, and the pit exit merge warning) asks you to confirm first.
+- Saving restarts Gary, so he starts the session knowing what to leave out.
+- A switched-off call still works behind the scenes. Turning off the fuel calls doesn't stop
+  automatic fuelling or the pit wall's fuel widget, for example.
 
 ## Next
 

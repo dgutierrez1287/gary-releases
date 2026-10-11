@@ -28,7 +28,8 @@ behind"* - he's forgiving about how you phrase it.
 
 Without being asked, he calls your lap times and where you found or lost time, fuel, gaps,
 flags, penalties, traffic from other classes, and the whole pit sequence - and he can set your
-fuel for you at every stop. Each sim gets its own extras too: shared pit and fuel data, the
+fuel for you at every stop. And for when you do want a screen, the
+[pit wall](pit-wall.html) puts it all on a second monitor or a tablet. Each sim gets its own extras too: shared pit and fuel data, the
 two-compound rule and oval tyre allowances in iRacing; stop-and-go vs drive-through, track
 limit points and the Hypercar battery in LMU.
 

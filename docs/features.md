@@ -72,6 +72,11 @@ passes as they happen, the class leader pitting, rivals pitting, position update
 and a rejoin warning if something's coming when you're stopped on track. When a rival ahead of
 you stops on track he says who - and in iRacing, where: "stopped on track at Turn 3".
 
+**A rival in trouble.** When a rival ahead in your class has an incident, he tells you what's on
+offer: *"That's for P4 in class, 6 seconds up the road."* In iRacing he
+also calls *"Incident ahead"* for any car stopped or crawling just up the road (see
+[Incidents](iracing.html#incidents)).
+
 **Penalties.** What you got, how many laps you have left to serve it, and a reminder in the last
 sector on the laps that matter, so you're not finding out at the pit entry.
 
@@ -96,14 +101,21 @@ swings, and *"should I be on wets"* when it's in between.
 it - fuel use, pace, and how much the lap times fell away over the stint.
 
 **Turn names.** At tracks Gary has corner data for, calls use the corner names (or numbers, if
-you prefer - just say so). Corners a track officially letters, like 5a, 5b and 5c, are called that
+you prefer - just say so). That's most iRacing road courses and almost every LMU track. Corners a track officially letters, like 5a, 5b and 5c, are called that
 way, so the numbers after them still match the track map.
 
 **Gaps every lap, on request.** *"Give me the gaps every lap"* (or every few laps, or one side
 only) for a fight at the end of a race - how far ahead and behind, and how it moved that lap.
 
 **How much he talks.** *"Quiet mode"* for only the urgent stuff, *"keep me informed"* for
-everything. He also holds routine chatter while you're hard on the brakes.
+everything. He also holds routine chatter while you're hard on the brakes, and when a few routine
+calls are waiting, he says them in one transmission instead of keying the radio for each one.
+Missed something? *"Say again."* To switch calls off for good, a whole group or one at a time, see
+the [Customization tab](../settings.html#customization).
+
+**Pit wall.** A live dashboard on a second screen, a tablet or a phone: timing tower, relative,
+track map, fuel, tyres and telemetry, with flags, your pit stop and *box this lap* popping up when
+they matter. See [Pit wall](../pit-wall.html).
 
 **Captions.** Everything the crew chief says - and the spotter too, if you want - as text in a
 small box over your sim, wherever you put it. For drivers who are hard of hearing, race with the
