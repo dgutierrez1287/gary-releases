@@ -36,6 +36,34 @@ Ignore it and the update installs next time you start Gary. He never restarts hi
 mid-session — the one exception is finishing a voice download (see [Voices](first-run.html#voices)),
 which needs a restart to take effect and tells you before it happens.
 
+### Update channels
+
+Gary updates from a **channel**. Everyone starts on **Stable**. To get builds earlier, pick
+another one in **Settings → Updates**:
+
+| Channel | What you get |
+|---|---|
+| **Stable** | The normal Gary - what everyone runs |
+| **Beta** | Fixes and features a little early. Usually solid |
+| **Alpha** | Every test build. Changes often, and may break |
+
+![The Updates section of Gary's settings, on the Stable channel](assets/update-channel.png)
+
+Pick a channel and press **Save**. Gary asks to confirm, downloads that channel's build (about
+175 MB) and restarts on it. From then on he updates only from that channel. Your settings and
+history are kept, and you can switch back the same way at any time - going back to Stable can
+mean going back a version, which is fine.
+
+![The channel list: Stable, Beta and Alpha](assets/update-channel-list.png)
+
+**Test channels.** Big new features are sometimes tested on their own channel before they reach
+everyone. They aren't in the list - you join one with an **invite code**, posted in the
+**#test-releases** channel on the [Discord](https://discord.gg/XAdbGx8zV8). Paste the code under
+*Join a test channel*, press **Check code**, then **Save**. **Leave test channel** takes you back
+to where you were. When a test ends, Gary moves you back on his own.
+
+![On a test channel: its name in the list, and the Leave test channel button](assets/update-channel-test.png)
+
 ## Uninstall
 
 Windows **Settings → Apps → Installed apps → Gary**. That removes the program. Your settings,

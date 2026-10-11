@@ -116,6 +116,14 @@ monitor that's no longer connected, it comes back onto your main one.
 | **Share GPS data for tracks that need it** | One clean lap of GPS at tracks still missing corner data |
 | **Share tyre wear data** | One row per stint, to build a tyre wear model |
 
+**Updates** - see [Update channels](install.html#update-channels).
+
+| Setting | What it does |
+|---|---|
+| **Update channel** | Stable (the default), Beta or Alpha. Changing it takes effect on Save: Gary downloads that channel's build and restarts on it |
+| **Join a test channel** | Paste an invite code for a feature test, press Check code, then Save |
+| **Leave test channel** | Shown while you're on a test channel. Takes you back to the channel you were on before |
+
 **Developer**
 
 | Setting | What it does |
