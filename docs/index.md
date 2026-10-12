@@ -62,7 +62,7 @@ things get fixed.
 
 ## Say thanks
 
-Gary is free. If he's helped you and you'd like to say thanks, please donate
+Gary is a free alpha. If he's helped you and you'd like to say thanks, please donate
 to the **[Autistic Self Advocacy Network](https://givebutter.com/give-to-asan-1glcqt/diegogutierrez2)** - a nonprofit run by and for autistic people.
 
 Your donation goes straight to ASAN, not to me. Gary isn't affiliated with or endorsed by ASAN.
