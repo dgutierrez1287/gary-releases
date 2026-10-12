@@ -15,7 +15,7 @@ favicon_ico: "/assets/favicon.png"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Gary is a free alpha, built and maintained by one person in their spare time. Bugs, ideas and questions: <a href=\"https://discord.gg/XAdbGx8zV8\">Discord</a>. Want to say thanks? <a href=\"https://givebutter.com/give-to-asan-1glcqt/diegogutierrez2\">Donate to ASAN</a>."
+footer_content: "Gary is free while in development, built and maintained by one person in their spare time. Bugs, ideas and questions: <a href=\"https://discord.gg/XAdbGx8zV8\">Discord</a>. Want to say thanks? <a href=\"https://givebutter.com/give-to-asan-1glcqt/diegogutierrez2\">Donate to ASAN</a>."
 
 aux_links:
   "Support ASAN":
