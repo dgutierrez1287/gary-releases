@@ -43,7 +43,7 @@ second monitor where the sim keeps covering him up.
 
 ## Voices
 
-Two voices ship with Gary — **Alan** for the crew chief, **Sophie** for the spotter. Fifteen
+Two voices ship with Gary — **Alan** for the crew chief, **Sophie** for the spotter. Fourteen
 more are available in **Settings**.
 
 Downloading one takes about 60 MB and a minute or two, because Gary also has to render the
