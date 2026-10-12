@@ -36,7 +36,7 @@ limit points and the Hypercar battery in LMU.
 **[See all the features →](features/)**
 
 {: .note }
-**Gary is in alpha.** It's free, it's in daily use, and it's still changing fast. If he gets
+**Gary is in alpha.** It's free while in development, it's in daily use, and it's still changing fast. If he gets
 something wrong, send a log in the [Discord](https://discord.gg/XAdbGx8zV8) - that's how most
 things get fixed.
 
